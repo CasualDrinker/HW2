@@ -17,8 +17,11 @@ public class Main {
    * However, your program must pass the existing tests provided in order to
    * get 100%.
    */
+
   
   public static void main(String[] args) {
+        System.out.println("Hello World!");
+
       int     assignmentScore = 0;
       boolean errorFlag = false;
       BinaryTree tree1 = new BinaryTree();
